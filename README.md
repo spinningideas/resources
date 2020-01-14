@@ -24,7 +24,7 @@ See https://github.com/spinningideas/resources/wiki
   
 ## JavaScript: 
 
-- [App Folder Structure)](https://github.com/spinningideas/resources/wiki/JavaScript-App-Folder-Structure)
+- [App Folder Structure](https://github.com/spinningideas/resources/wiki/JavaScript-App-Folder-Structure)
 - [JavaScript Databases](https://github.com/spinningideas/resources/wiki/JavaScript-Databases)
 - [JavaScript Quote Usage](https://github.com/spinningideas/resources/wiki/JavaScript-Quote-Usage)
 - [JavaScript Searching](https://github.com/spinningideas/resources/wiki/JavaScript-Searching)
