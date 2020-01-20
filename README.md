@@ -7,6 +7,7 @@ See https://github.com/spinningideas/resources/wiki
 ## Architecture
 
 - https://github.com/spinningideas/architecture
+- https://github.com/justinamiller/SoftwareArchitect
 
 ## Continuous Integration/Continuous Delivery
 
