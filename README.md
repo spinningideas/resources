@@ -25,6 +25,7 @@ See https://github.com/spinningideas/resources/wiki
   
 ## JavaScript: 
 
+- https://github.com/coodict/javascript-in-one-pic
 - [App Folder Structure](https://github.com/spinningideas/resources/wiki/JavaScript-App-Folder-Structure)
 - [JavaScript Databases](https://github.com/spinningideas/resources/wiki/JavaScript-Databases)
 - [JavaScript Quote Usage](https://github.com/spinningideas/resources/wiki/JavaScript-Quote-Usage)
