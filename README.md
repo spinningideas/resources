@@ -31,6 +31,7 @@ See https://github.com/spinningideas/resources/wiki
 - [JavaScript Quote Usage](https://github.com/spinningideas/resources/wiki/JavaScript-Quote-Usage)
 - [JavaScript Searching](https://github.com/spinningideas/resources/wiki/JavaScript-Searching)
 - [Paging Data](https://github.com/spinningideas/resources/wiki/Paging-Data)
+- [Idiomatic Javascript](https://github.com/rwaldron/idiomatic.js)
 
  
  
