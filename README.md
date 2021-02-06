@@ -23,9 +23,15 @@ See https://github.com/spinningideas/resources/wiki
 - [Useful Online Tools](https://github.com/spinningideas/resources/wiki/Useful-Online-Tools)
 - [Online Code Editors](https://github.com/spinningideas/resources/wiki/Online-Code-Editors)
 
+## Career
+
+- [Developer Roadmap](https://github.com/kamranahmedse/developer-roadmap)
+- https://github.com/spinningideas/resources/wiki/Employment
+
 ## Interviewing 
 
 - [Interview Questions](https://github.com/spinningideas/resources/wiki/Interview-Questions)
+- https://github.com/jwasham/coding-interview-university
   
 ## JavaScript: 
 
