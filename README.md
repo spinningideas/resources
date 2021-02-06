@@ -9,6 +9,10 @@ See https://github.com/spinningideas/resources/wiki
 - https://github.com/spinningideas/architecture
 - https://github.com/justinamiller/SoftwareArchitect
 
+## Books
+
+- https://github.com/spinningideas/resources/wiki/Books
+
 ## Continuous Integration/Continuous Delivery
 
 - https://github.com/spinningideas/cicd
