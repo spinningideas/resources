@@ -46,6 +46,7 @@ See https://github.com/spinningideas/resources/wiki
 - [JavaScript Searching](https://github.com/spinningideas/resources/wiki/JavaScript-Searching)
 - [Paging Data](https://github.com/spinningideas/resources/wiki/Paging-Data)
 - [Idiomatic Javascript](https://github.com/rwaldron/idiomatic.js)
+- [Javascript Clean Code](https://github.com/ryanmcdermott/clean-code-javascript)
 
  
  
