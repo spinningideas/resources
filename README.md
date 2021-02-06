@@ -30,6 +30,7 @@ See https://github.com/spinningideas/resources/wiki
 
 ## Interviewing 
 
+- [Interview Preparation](https://github.com/spinningideas/resources/wiki/Interview-Preparation)
 - [Interview Questions](https://github.com/spinningideas/resources/wiki/Interview-Questions)
 - https://github.com/jwasham/coding-interview-university
 
