@@ -32,6 +32,10 @@ See https://github.com/spinningideas/resources/wiki
 
 - [Interview Questions](https://github.com/spinningideas/resources/wiki/Interview-Questions)
 - https://github.com/jwasham/coding-interview-university
+
+## Example Apps
+
+- https://github.com/gothinkster/realworld
   
 ## JavaScript: 
 
