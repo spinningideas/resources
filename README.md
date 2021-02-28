@@ -22,6 +22,7 @@ See https://github.com/spinningideas/resources/wiki
 - [Useful Programming Info](https://github.com/spinningideas/resources/wiki/Useful-Programming-Info)
 - [Useful Online Tools](https://github.com/spinningideas/resources/wiki/Useful-Online-Tools)
 - [Online Code Editors](https://github.com/spinningideas/resources/wiki/Online-Code-Editors)
+- https://github.com/ahkarami/MyGeneralProgrammingNotes
 
 ## Career
 
