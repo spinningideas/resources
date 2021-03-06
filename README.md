@@ -24,6 +24,11 @@ See https://github.com/spinningideas/resources/wiki
 - [Online Code Editors](https://github.com/spinningideas/resources/wiki/Online-Code-Editors)
 - https://github.com/ahkarami/MyGeneralProgrammingNotes
 
+## JavaScript: 
+
+https://github.com/spinningideas/resources/wiki/Javascript
+
+
 ## Career
 
 - [Developer Roadmap](https://github.com/kamranahmedse/developer-roadmap)
@@ -38,17 +43,7 @@ See https://github.com/spinningideas/resources/wiki
 ## Example Apps
 
 - https://github.com/gothinkster/realworld
-  
-## JavaScript: 
 
-- https://github.com/coodict/javascript-in-one-pic
-- [App Folder Structure](https://github.com/spinningideas/resources/wiki/JavaScript-App-Folder-Structure)
-- [JavaScript Databases](https://github.com/spinningideas/resources/wiki/JavaScript-Databases)
-- [JavaScript Quote Usage](https://github.com/spinningideas/resources/wiki/JavaScript-Quote-Usage)
-- [JavaScript Searching](https://github.com/spinningideas/resources/wiki/JavaScript-Searching)
-- [Paging Data](https://github.com/spinningideas/resources/wiki/Paging-Data)
-- [Idiomatic Javascript](https://github.com/rwaldron/idiomatic.js)
-- [Javascript Clean Code](https://github.com/ryanmcdermott/clean-code-javascript)
 
  
  
