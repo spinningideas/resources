@@ -44,6 +44,7 @@ https://github.com/spinningideas/resources/wiki/Javascript
 
 - https://github.com/gothinkster/realworld
 - https://github.com/GorvGoyl/Clone-Wars
+- https://github.com/pramit-marattha/Fullstack-projects-frontend-with-react-and-backend-with-various-stacks
 
 
  
