@@ -27,10 +27,13 @@ See https://github.com/spinningideas/resources/wiki
 - [Online Code Editors](https://github.com/spinningideas/resources/wiki/Online-Code-Editors)
 - https://github.com/ahkarami/MyGeneralProgrammingNotes
 
-## JavaScript: 
+## JavaScript
 
 https://github.com/spinningideas/resources/wiki/Javascript
 
+## Design 
+
+https://github.com/spinningideas/resources/wiki/Design-Resources
 
 ## Career
 
