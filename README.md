@@ -7,6 +7,10 @@ See https://github.com/spinningideas/resources/wiki
  - https://quickref.me/
  - https://resorcery.pages.dev/
 
+## AI/ML Resources
+
+- https://github.com/spinningideas/resources/wiki/AIML-Resources
+
 ## Architecture
 
 - https://github.com/spinningideas/architecture
@@ -46,11 +50,6 @@ https://github.com/spinningideas/resources/wiki/Design-Resources
 - [Interview Questions](https://github.com/spinningideas/resources/wiki/Interview-Questions)
 - https://github.com/jwasham/coding-interview-university
 
-## Example Apps
-
-- https://github.com/gothinkster/realworld
-- https://github.com/GorvGoyl/Clone-Wars
-- https://github.com/pramit-marattha/Fullstack-projects-frontend-with-react-and-backend-with-various-stacks
 
 
  
