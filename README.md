@@ -10,6 +10,7 @@ See https://github.com/spinningideas/resources/wiki
 ## AI/ML Resources
 
 - https://github.com/spinningideas/resources/wiki/AIML-Resources
+- https://github.com/spinningideas/resources/wiki/Machine-Learning---Learning-Path
 
 ## Architecture
 
