@@ -6,6 +6,15 @@ See https://github.com/spinningideas/resources/wiki
 
  - https://quickref.me/
  - https://resorcery.pages.dev/
+ - 
+## Programming General
+
+- [Useful Programming Info](https://github.com/spinningideas/resources/wiki/Useful-Programming-Info)
+- [Useful Online Tools](https://github.com/spinningideas/resources/wiki/Useful-Online-Tools)
+- [Online Code Editors](https://github.com/spinningideas/resources/wiki/Online-Code-Editors)
+- https://github.com/ahkarami/MyGeneralProgrammingNotes
+- https://github.com/mtdvio/every-programmer-should-know
+   
 
 ## AI/ML Resources
 
@@ -24,13 +33,6 @@ See https://github.com/spinningideas/resources/wiki
 ## Continuous Integration/Continuous Delivery
 
 - https://github.com/spinningideas/cicd
-
-## Programming General
-
-- [Useful Programming Info](https://github.com/spinningideas/resources/wiki/Useful-Programming-Info)
-- [Useful Online Tools](https://github.com/spinningideas/resources/wiki/Useful-Online-Tools)
-- [Online Code Editors](https://github.com/spinningideas/resources/wiki/Online-Code-Editors)
-- https://github.com/ahkarami/MyGeneralProgrammingNotes
 
 ## JavaScript
 
