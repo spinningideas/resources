@@ -6,7 +6,7 @@ See https://github.com/spinningideas/resources/wiki
 
  - https://quickref.me/
  - https://resorcery.pages.dev/
- - 
+   
 ## Programming General
 
 - [Useful Programming Info](https://github.com/spinningideas/resources/wiki/Useful-Programming-Info)
@@ -15,7 +15,6 @@ See https://github.com/spinningideas/resources/wiki
 - https://github.com/ahkarami/MyGeneralProgrammingNotes
 - https://github.com/mtdvio/every-programmer-should-know
    
-
 ## AI/ML Resources
 
 - https://github.com/spinningideas/resources/wiki/AI-Resources
@@ -37,11 +36,11 @@ See https://github.com/spinningideas/resources/wiki
 
 ## JavaScript
 
-https://github.com/spinningideas/resources/wiki/Javascript
+- https://github.com/spinningideas/resources/wiki/Javascript
 
 ## Design 
 
-https://github.com/spinningideas/resources/wiki/Design-Resources
+- https://github.com/spinningideas/resources/wiki/Design-Resources
 
 ## Career
 
