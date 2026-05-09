@@ -3,9 +3,6 @@
 Various coding related resources along with a wiki to capture notes 
 
 See https://github.com/spinningideas/resources/wiki
-
- - https://quickref.me/
- - https://resorcery.pages.dev/
    
 ## Programming General
 
